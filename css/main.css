@@ -94,11 +94,13 @@ body header {
       padding: .5rem 1rem .5rem 1rem; }
     body header .landingPage .headerButtons .buttonOne {
       background-color: #ef3e5d;
-      color: white; }
+      color: white;
+      padding: .4rem 1rem; }
     body header .landingPage .headerButtons .buttonOne:hover {
       background-color: white;
       color: #ef3e5d;
-      border: 2px solid #ef3e5d; }
+      border: 3px solid #ef3e5d;
+      padding: .5rem 1.2rem; }
     body header .landingPage .headerButtons .buttonTwo {
       background-color: white;
       color: #ef3e5d;
@@ -302,7 +304,7 @@ body .sectionThree {
           background-color: white;
           color: #ef3e5d;
           border: 2px solid #ef3e5d;
-          padding: .7rem; }
+          padding: .7rem 1.2rem; }
     body .sectionThree .eventsAndConnection .connection {
       background: url("../imgs/pattern2.png") 10% 100%/cover no-repeat;
       border: 5px 0px 0px 0px solid white;
