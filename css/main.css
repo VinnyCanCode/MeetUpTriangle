@@ -695,7 +695,7 @@ iPhone 6, 7, & 8 in portrait
     body .sectionThree .eventsAndConnection .connection {
       height: 60vh; }
       body .sectionThree .eventsAndConnection .connection .appDetails .mobileAppImage {
-        width: 40%;
+        width: 43% !important;
         height: 35% !important; }
       body .sectionThree .eventsAndConnection .connection .appDetails .appList {
         width: 45vw;
