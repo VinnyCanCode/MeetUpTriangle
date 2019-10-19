@@ -683,23 +683,25 @@ iPhone 6, 7, & 8 in portrait
       width: 40vw;
       height: 20vh; }
   body .sectionThree {
-    height: 115vh !important; }
-    body .sectionThree .eventsAndConnection .events .eventDetails {
-      padding: 5rem 1rem 0rem 2rem;
-      font-size: .7rem; }
-      body .sectionThree .eventsAndConnection .events .eventDetails h1, body .sectionThree .eventsAndConnection .events .eventDetails p {
-        width: 50vw; }
-      body .sectionThree .eventsAndConnection .events .eventDetails .buttonOne {
-        font-size: .7rem;
-        margin: .1rem .5rem; }
+    height: 95vh !important; }
+    body .sectionThree .eventsAndConnection .events {
+      height: 50vh !important; }
+      body .sectionThree .eventsAndConnection .events .eventDetails {
+        padding: 5rem 1rem 0rem 2rem;
+        font-size: .7rem; }
+        body .sectionThree .eventsAndConnection .events .eventDetails h1, body .sectionThree .eventsAndConnection .events .eventDetails p {
+          width: 50vw; }
+        body .sectionThree .eventsAndConnection .events .eventDetails .buttonOne {
+          font-size: .7rem;
+          margin: .1rem .5rem; }
     body .sectionThree .eventsAndConnection .connection {
-      height: 60vh; }
+      height: 55vh !important; }
       body .sectionThree .eventsAndConnection .connection .appDetails .mobileAppImage {
         width: 43% !important;
-        height: 35% !important; }
+        height: 40% !important; }
       body .sectionThree .eventsAndConnection .connection .appDetails .appList {
         width: 45vw;
-        height: 33vh !important;
+        height: 35vh !important;
         font-size: .7rem;
         padding-right: .5rem; }
       body .sectionThree .eventsAndConnection .connection .appDetails .connectTitle {
