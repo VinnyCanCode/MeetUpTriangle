@@ -683,7 +683,7 @@ iPhone 6, 7, & 8 in portrait
       width: 40vw;
       height: 20vh; }
   body .sectionThree {
-    height: 113.5vh !important; }
+    height: 115vh !important; }
     body .sectionThree .eventsAndConnection .events .eventDetails {
       padding: 5rem 1rem 0rem 2rem;
       font-size: .7rem; }
@@ -693,13 +693,13 @@ iPhone 6, 7, & 8 in portrait
         font-size: .7rem;
         margin: .1rem .5rem; }
     body .sectionThree .eventsAndConnection .connection {
-      height: 65vh; }
+      height: 60vh; }
       body .sectionThree .eventsAndConnection .connection .appDetails .mobileAppImage {
         width: 40%;
-        height: 32% !important; }
+        height: 35% !important; }
       body .sectionThree .eventsAndConnection .connection .appDetails .appList {
         width: 45vw;
-        height: 32vh !important;
+        height: 33vh !important;
         font-size: .7rem;
         padding-right: .5rem; }
       body .sectionThree .eventsAndConnection .connection .appDetails .connectTitle {
